@@ -123,6 +123,22 @@ This capstone project consolidates every core Linux administration concept from 
 
 ---
 
+## 📸 Proof of Execution
+
+### Terminal Output
+
+![Audit Output](screenshot-audit-output.png)
+
+The verification output confirms successful execution — symbolic link creation (`lrwxrwxrwx`), sticky bit application (`drwxrwxrwt`), audit report generation, and gzipped archive creation.
+
+### Bash Script Reference
+
+![Bash Script](screenshot-bash-script.png)
+
+> 📄 **Full script available:** [`audit.sh`](audit.sh)
+
+---
+
 ## 💡 Lessons Learned
 
 - **Least privilege isn't optional.** Applying 750 on backup directories prevents non-owners from even listing contents — a foundational defense layer.
