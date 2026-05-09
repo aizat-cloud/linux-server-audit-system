@@ -70,7 +70,7 @@ This capstone project consolidates every core Linux administration concept from 
 | Line | Purpose |
 |------|---------|
 | BACKUP_DIR=... | Centralizes backup location for maintainability |
-| DATE=$(date +%Y-%m-%d) | Generates timestamp for unique archive naming |
+| DATE=$(date +%Y-%m-%d) | Generates date stamp for unique archive naming |
 | grep "model name" /proc/cpuinfo | Extracts CPU model from kernel-exposed hardware info |
 | head -n 1 | Limits output to a single line (prevents duplicates on multi-core systems) |
 | cut -d: -f2 | Strips the field label, keeps only the value |
