@@ -1,6 +1,6 @@
 ### Hi, I'm Khairul Aizat 👋
 
-**Aspiring Cloud & Linux Operations Engineer | KL / Selangor, Malaysia**
+**Aspiring Cloud & Linux Operations Engineer | KL, Malaysia**
 
 Career pivoter building a deliberate, documented foundation in Linux System Administration and AWS Cloud — one lab at a time.
 
@@ -55,7 +55,7 @@ Integrated project combining Linux automation and AWS networking — full-stack 
 #### 📫 Connect
 
 - **LinkedIn:** [linkedin.com/in/aizat-linux](https://www.linkedin.com/in/aizat-linux)
-- **Location:** Kuala Lumpur / Selangor, Malaysia
+- **Location:** Kuala Lumpur, Malaysia
 - **Open to:** IT Operations Analyst | Junior Cloud Operations Engineer (Onsite / Hybrid)
 
 ---
