@@ -146,7 +146,7 @@ This capstone project consolidates every core Linux administration concept from 
 ## 👤 Author
 
 **Khairul Aizat**
-Aspiring Cloud & Linux Operations Engineer | KL / Selangor, Malaysia
+Aspiring Cloud & Linux Operations Engineer | KL, Malaysia
 
 - LinkedIn: [linkedin.com/in/aizat-linux](https://www.linkedin.com/in/aizat-linux)
 - LPI Linux Essentials — High Distinction (750/800)
